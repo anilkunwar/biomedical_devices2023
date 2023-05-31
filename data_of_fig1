@@ -1,4 +1,6 @@
 Fig. 1 (a)
-rank,   3D printing process,  Features supporting the popularity
-1, Fused Deposition Modeling, Accessibility and affordability/Material availability/Ease of Use/Versatility
-2. 
+rank (in terms of popularity),   3D printing process,  Features supporting the rank increase, Limitations (causing the lowering the decrease rank)
+1, Fused Deposition Modeling, Accessibility and affordability/Material availability/Ease of Use/Versatility, 
+2, Stereolithography, High-resolution printing/Accuracy, material limitations
+3, Selective Laser Sintering 
+4, Selective Laser Melting (SLM) 
